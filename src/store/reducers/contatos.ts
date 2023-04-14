@@ -11,29 +11,29 @@ const initialState: ContatosState = {
     {
       nome: 'Vitor Silva',
       status: enums.Status.NORMAL,
-      email: 'dvsyhjd',
-      tel: 654213,
+      email: 'vitor2000rs@gmail.com',
+      tel: 975895809,
       id: 1
     },
     {
       nome: 'Gian Souza',
       status: enums.Status.ESPECIAL,
-      email: 'aqwedawd',
-      tel: 654213,
+      email: 'ogiansouza@ebac.com',
+      tel: 984562357,
       id: 2
     },
     {
       nome: 'Michael Cebola',
       status: enums.Status.NORMAL,
-      email: 'mbjmbv',
-      tel: 654213,
+      email: 'cebola@gmail.com',
+      tel: 987943516,
       id: 3
     },
     {
       nome: 'Gustavo Donato',
       status: enums.Status.NORMAL,
-      email: 'eghdrfg',
-      tel: 654213,
+      email: 'donato.gus@gmail.com',
+      tel: 967899876,
       id: 4
     }
   ]

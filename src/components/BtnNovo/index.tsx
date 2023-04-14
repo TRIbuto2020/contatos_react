@@ -1,7 +1,7 @@
-import { Link } from 'react-router-dom'
+import { Novo } from './styles'
 
 const BtnNovo = () => {
-  return <Link to={'/novo'}>Novo</Link>
+  return <Novo to={'/novo'}>Adicionar Novo Contato</Novo>
 }
 
 export default BtnNovo

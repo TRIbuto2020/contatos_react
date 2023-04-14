@@ -1,9 +1,13 @@
 import Form from '../../components/Form'
+import { Titulo } from '../../styles'
+import { Cabecalho } from './styles'
 
 const Cadastro = () => {
   return (
     <>
-      <h1>Novo Contato</h1>
+      <Cabecalho>
+        <Titulo>Novo Contato</Titulo>
+      </Cabecalho>
       <Form />
     </>
   )
